@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.2.0"
+  version: "2.1.0"
 
 package:
   name: protovalidate
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/protovalidate/protovalidate-${{ version }}.tar.gz
-  sha256: 4cb9a5065f32abc9baf2cf25c5bd09a139f7dffb7b8692f636a8e3e6883bb9a2
+  sha256: d2f66bd8c7e8c4929116ad598348e83d90bd718f0387f2307b34f83b1740f318
 
 build:
   number: 0
